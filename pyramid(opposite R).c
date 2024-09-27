@@ -2,7 +2,7 @@
 
 int main()
 {
- 	// print triangle(ulta)
+ 	// inverted right half
 	int u;
 	printf("Enter the unit:");
 	scanf ("%d",&u);
