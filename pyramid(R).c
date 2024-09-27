@@ -2,7 +2,7 @@
 
 int main()
 {
- 	// print triangle
+ 	// Right half pyramid
 	int u;
 	printf("Enter the unit:");
 	scanf ("%d",&u);
